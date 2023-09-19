@@ -1,0 +1,25 @@
+*{
+    margin: 0%;
+    padding: 0%;
+
+}
+#container{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 5%;
+}
+
+
+#align{
+    display:flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    border: 4px solid black;
+    width: 50vw;
+   background-color: brown;
+}
+body{
+    background-color: aqua;
+}
